@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/Zhc1Bz8/8.jpg",
+        "title": "The Art of Programming",
+        "author_name": "Alice Smith",
+        "author_img": "https://i.ibb.co/Khnzmkz/6.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": "10",
+        "hashtags": ["programming", "coding", "software"]
+      },
+      {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/bWJcsR9/10.jpg",
+        "title": "Exploring the Universe",
+        "author_name": "Bob Johnson",
+        "author_img": "https://i.ibb.co/VqHWCKz/7.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": "15",
+        "hashtags": ["space", "astronomy", "science"]
+      },
+      {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/S0Xbrj4/9.jpg",
+        "title": "Healthy Eating Habits",
+        "author_name": "Emily Brown",
+        "author_img": "https://i.ibb.co/R0V9Cjd/5.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": "8",
+        "hashtags": ["nutrition", "health", "food"]
+      },
+      
+      {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/1sd26gr/1.jpg",
+        "title": "Traveling Around the World",
+        "author_name": "David Jones",
+        "author_img": "https://i.ibb.co/GpzDdGC/4.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": "20",
+        "hashtags": ["travel", "adventure", "explore"]
+      },
+      {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/48YkCLt/2.jpg",
+        "title": "The Power of Meditation",
+        "author_name": "Sophia Lee",
+        "author_img": "https://i.ibb.co/BTn01YR/3.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": "12",
+        "hashtags": ["meditation", "mindfulness", "wellness"]
+      }
+      
+      
+      
+      
+      
+]

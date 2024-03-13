@@ -1,13 +1,20 @@
 
 
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Bookmark from './components/Bookmark/Bookmark'
+import Header from './components/header/Header'
 
 function App() {
   
   return (
     <>
       
-      <h1 className='text-2xl text-red-500 bg-slate-500'>Vite + React</h1>
+      <Header></Header>
+     <div className='container mx-auto grid lg:grid-cols-3 grid-cols-1'>
+        <Blogs></Blogs>
+        <Bookmark></Bookmark>
+     </div>
       
     </>
   )
